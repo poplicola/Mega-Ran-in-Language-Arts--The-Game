@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<game-title>Mega Ran in Language Arts: The Game</game-title>
+	<founding-date>May 29, 2012</founding-date>
+	<website>http://www.languagearts.lunargiantstudios.com/</website>
+	<title>Lunar Giant</title>
+	<based-in>Chicago, Illinois</based-in>
+	
+	<press-contact>press@lunargiantstudios.com</press-contact>
+
+	<socials>
+		<social>
+			<name>twitter.com/LunarGiantGames</name>
+			<link>twitter.com/LunarGiantGames</link>
+		</social>
+		<social>
+			<name>facebook.com/LunarGiant</name>
+			<link>facebook.com/LunarGiant</link>
+		</social>
+		<social>
+			<name>Skype</name>
+			<link>callto:jay.margalus</link>
+		</social>
+	</socials>
+
+	<description>	
+		“Mega Ran in Language Arts: The Game” is a side scrolling, retro platformer for the web that a quirky twist on an old genre.  Fusing music by Raheem “Mega Ran” Jarbo and Melvin “DN3” Raymond together with classic gameplay and new web development standards, “Mega Ran in Language Arts: The Game” is the most technically challenging project that Lunar Giant has taken on to date. With four levels, four bosses, two expansions planned, and an iOS game on the way, the game also promises to be a broad and expansive undertaking.
+	</description>
+		
+	<histories>
+		<history>
+			<header></header>
+			<text>A video game based off of an album by acclaimed nerdcore rapper Random (aka Mega Ran), “Mega Ran in Language Arts: The Game” is Lunar Giant’s first foray into HTML5/Javascript video game development, using the Impactjs engine and other new tech to create a different kind of player experience on the web.</text>
+		</history>
+	</histories>
+	
+	<features>
+		<feature>Battle through 4 challenging levels against enemies like “Castro Copter” and “Disco Stu”</feature>
+		<feature>Defeat 4 bosses in a quest to collect in-game items to get a special bonus track from the “Language Arts” album</feature>
+		<feature>Soundtrack by by Raheem “Mega Ran” Jarbo and Melvin “DN3” Raymond</feature>
+		<feature>Level up 4 unique abilities as you play, adding more power and versatility to Mega Ran</feature>
+	</features>
+		
+	<trailers>
+		<trailer>
+			<name>Mega Ran in Language Arts Trailer</name>
+			<youtube>oystmdNmWvQ</youtube>
+		</trailer>
+	</trailers>
+	
+	<quotes>
+		<quote>
+			<description>Raheem Jarbo, aka Mega Ran, aka Random, is one of the more noted video game musicians out there. For his latest album, though, he went a little further than just rapping about video games.</description>
+			<name>Luke Plunkett</name>
+			<website>Kotaku</website>
+			<link>http://kotaku.com/5911879/the-video-game-thats-also-a-rap-album-thats-also-a-comic-book</link>
+		</quote>
+		<quote>
+			<description>...a cross between Mega Man and River City Ransom with some hints of Final Fantasy.</description>
+			<name>Tony Ponce</name>
+			<website>Destructoid</website>
+			<link>http://www.destructoid.com/random-s-language-arts-is-a-big-music-comic-game-trio-226407.phtml</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Play the game</title>
+			<description>Check out Mega Ran in Language Arts: The Game</description>
+			<link>http://www.languagearts.lunargiantstudios.com/press</link>
+		</additional>
+		<additional>
+			<title>More about Lunar Giant</title>
+			<description>Read more about Lunar Giant on their website</description>
+			<link>http://www.lunargiantstudios.com/press</link>
+		</additional>
+		<additional>
+			<title>Buy the Album</title>
+			<description>Purchase the Mega Ran in Language Arts: Volume One album</description>
+			<link>http://megaranmusic.com/album/language-arts-volume-one</link>
+		</additional>
+		<additional>
+			<title>More about Raheem "Mega Ran" Jarbo</title>
+			<link>http://megaran.com/bio/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Raheem "Mega Ran" Jarbo</person>
+			<website>http://megaran.com/</website>
+			<role>Executive Producer, Music</role>
+		</credit>
+		<credit>
+			<person>Scott Arnold</person>
+			<role>Executive Producer</role>
+		</credit>
+		<credit>
+			<person>Russ Lankenau</person>
+			<role>Director of Development/Lead Programmer, Level Designer</role>
+		</credit>
+		<credit>
+			<person>Jay Margalus</person>
+			<website>http://jaymargalus.com</website>
+			<role>Sound Programmer, Web Design, Level Designer</role>
+		</credit>
+		<credit>
+			<person>Adam Eidukas</person>
+			<role>Artificial Intelligence Programmer</role>
+		</credit>
+		<credit>
+			<person>Neil Wickman</person>
+			<role>Lead Artist, Level Designer</role>
+		</credit>
+		<credit>
+			<person>Ashley Lankenau</person>
+			<role>Background Artist</role>
+		</credit>
+		<credit>
+			<person>Melvin "DN3" Raymond</person>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>George Hufnagl</person>
+			<role>Sound Designer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>jay@lunargiantstudios.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/LunarGiantGames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/LunarGiant</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>lunargiantstudios.com</link>
+		</contact>
+	</contacts>
+</game>
